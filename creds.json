@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quic-332721",
+  "private_key_id": "9f417e7cd9026997b60214983895af1fe06a97c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSkjnlHxTE0hLQ\nIjG8qohb3WQzm3GQCaRxz0ycn6AhYjCrYJkoG0DB6q2iBo2DC2gsEfKow7iGHYGf\nPJLkyNwbnxR+8DkIHzVkVpLnnQeKCL6TuJ/aul51bxu4EZcNq9vPq9TsFOuZZZpE\nTCAiTGEHs12svtWWyhDY0VJr6gGWN5nQo1MjD9Xj/lCYBSPu3f9oixIozbdzjgYv\nMpd1sH+964W4sF05Leqjygf4KgicCIYBpqUrp54ez8vL63IqAXAaJAFa8XfxHjVT\nh0dfFIUK9+hbZ03BSob9aJ36wdA6MlNnynVNjWtmgGNQTfxALDEBy8+J+kA4dGDP\nkcz/cvybAgMBAAECggEAQ7yaNyRKcA4L0zxMt548AyEyzI8idu1DIwFGadPHlTWa\n5mZKnmY17Ktrc4WcHB2dQx/66WMchrgTLIA12LbsZ05DL5pjHkO7zy0yUKNo+3RY\nqfhoI9pz7F7zkcDG0LUKHsHt2ovYRh4zA+lhJOdhBzMh3SH+X2VdCgI7+07pd8KR\nn1314jrPZBwlSBO3dMoWNrfaza+O8kVYmEMxAwlX37+Fo2ez34PwcB/kuTPMwJ1u\nU8ksybjF86WBtQ8VSsfIsGOlC4R44QoKYCamn2ZvKNB7kTv7DGHvRCokpUoaf7QG\nkk6Msx3AlO2pfY7n9QYV9/fBZpe+po2SjQOBVvsgwQKBgQDuspA2JYBVOTSoc2E4\n97VdBiCCIiLISbX817IP+iZdMUtyeabp6jjt2yiJzkdqzP3zHBCBYF0j8YnR0YVa\nw0TlfuTNzfGAhdAsVk0c1RWOr0vigN+NsIktDfq5jTZU+EjQhH3UqxeB2IafYk/v\nieKtMNFz5T8rfGtncdjjzDDyMQKBgQDh1bs7GlsAKHlZmV8e9LYc8lv48ppdCTMl\nwuXcF7glZt4iODI8T1LUXu8A+sm/fRLLnUrxae7l9BxCwbrMEUK0U/BTsQWlBbRu\nuK3niHP9iBh65FK0uCv+9VBNTWGEg0i1pE/SLq7kJ6GHXpow5jQCd8EM51VtsOKQ\nd5xSZtw8iwKBgQCAaY3No2Uj9A+RI+lE1XY7YkVw3N5rc8Q1DvEbSU8ESbW2Ex4p\nrzkLNSDc6h1fpoJkHFAA2g+he5rSRu6AApb5A8ghs85dfx+cCp2Xikb7qPChHQWn\nWzahB2lAE2kMUzoQ+4YaOCUAVLUv35rzWfGZjK7Rs53FTj0VvJibDEm0sQKBgFAP\nFeXY7QO8VXCnB2qQ8/KFFIfHcWOj/EbZteT1X6maswrMgzqQIFv7H51oSpcgvsYC\nB+xXUoKgrFgaF596SvxkeWEh809SG2nY/IWFASGS2qLOSGealrY2vvX4haaVZ/RE\nwKtRM1zck83KgrztDukFDSIG7GkLePYgAQHRRygLAoGBAOtrEi4QvbDuMetWJSYU\nauJ3L0tE8WFsfsQtRB2IHv62vrHPRgKbhEI3JvQeVgxpCklp2VPPffIyocOsKRHb\nl/d5cxM80nDhfXMBNWy7qkmsHdglWiWgPzAOMYMYbZrPbLTmoqBYFo4H+Uj73Emt\n4KPsFaodbmKrZsruy81Q8UOP\n-----END PRIVATE KEY-----\n",
+  "client_email": "gym-bro@quic-332721.iam.gserviceaccount.com",
+  "client_id": "104508952235250998201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gym-bro%40quic-332721.iam.gserviceaccount.com"
+}
